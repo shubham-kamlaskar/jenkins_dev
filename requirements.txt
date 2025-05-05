@@ -1,0 +1,5 @@
+pandas
+numpy
+crewai
+crawl4ai
+pymupdf4llm
